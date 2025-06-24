@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @CreatorOfCodes103
-- 👀 I’m interested in Creating Viruses
-- 🌱 I’m currently learning: .bat ,.html .
-- 💞️ I’m looking to collaborate with: pankoza/2-pl or something idk...
-- 📫 How to reach me:https://discord.gg/mZZh3t9qFy
-- 😄 Gender:Male
-- ⚡ Fun fact:I am just a polish boy that's 13 years old
-- 
+Bro they are in my respitory.
